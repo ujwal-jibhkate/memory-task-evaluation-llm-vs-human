@@ -21,6 +21,13 @@ Memory tasks are widely used in cognitive science to measure human memory perfor
 
 ---
 
+## 📂 Dataset
+
+The dataset used for this project can be downloaded from the following link: [OSF Dataset - Memory Tasks](https://osf.io/dd8kp/).
+
+You only need to download the file named **`all_data.csv`**, which contains the necessary data for all five memory tasks.
+
+---
 ## 🔬 Memory Tasks
 
 ### 1. **Free Recall**
